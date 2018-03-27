@@ -2,7 +2,7 @@
 public class Prova {
 
 	public static void main(String[] args) {
-		System.out.println("Ciao\n");
+		System.out.println("Welcome\n");
 	}
 
 }
